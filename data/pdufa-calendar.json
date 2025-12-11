@@ -1,0 +1,92 @@
+[
+  {
+    "ticker": "AGIO",
+    "companyName": "Agios Pharmaceuticals",
+    "drugName": "Vorasidenib",
+    "indication": "IDH-mutant glioma (brain cancer)",
+    "pdufa_date": "2024-12-07",
+    "approvalType": "NDA",
+    "notes": "PDUFA date passed - check for decision"
+  },
+  {
+    "ticker": "CYTK",
+    "companyName": "Cytokinetics",
+    "drugName": "Aficamten",
+    "indication": "Hypertrophic cardiomyopathy (HCM)",
+    "pdufa_date": "2024-12-26",
+    "approvalType": "NDA",
+    "notes": "Highly anticipated cardiac drug"
+  },
+  {
+    "ticker": "CORT",
+    "companyName": "Corcept Therapeutics",
+    "drugName": "Relacorilant",
+    "indication": "Cushing's syndrome",
+    "pdufa_date": "2024-12-30",
+    "approvalType": "NDA",
+    "notes": "Selective cortisol modulator"
+  },
+  {
+    "ticker": "DNLI",
+    "companyName": "Denali Therapeutics",
+    "drugName": "DNL747",
+    "indication": "Alzheimer's disease",
+    "pdufa_date": "2025-01-05",
+    "approvalType": "BLA",
+    "notes": "Neurodegenerative disease treatment"
+  },
+  {
+    "ticker": "TVTX",
+    "companyName": "Travere Therapeutics",
+    "drugName": "Sparsentan",
+    "indication": "IgA nephropathy",
+    "pdufa_date": "2025-01-10",
+    "approvalType": "NDA",
+    "notes": "Rare kidney disease"
+  },
+  {
+    "ticker": "ARVN",
+    "companyName": "Arvinas Inc",
+    "drugName": "ARV-471",
+    "indication": "Breast cancer (ER+/HER2-)",
+    "pdufa_date": "2025-12-28",
+    "approvalType": "NDA",
+    "notes": "PROTAC protein degrader, highly innovative"
+  },
+  {
+    "ticker": "MDGL",
+    "companyName": "Madrigal Pharmaceuticals",
+    "drugName": "Resmetirom",
+    "indication": "NASH (non-alcoholic steatohepatitis)",
+    "pdufa_date": "2026-01-15",
+    "approvalType": "NDA",
+    "notes": "First-in-class NASH treatment"
+  },
+  {
+    "ticker": "IMVT",
+    "companyName": "Immunovant",
+    "drugName": "IMVT-1402",
+    "indication": "Autoimmune diseases",
+    "pdufa_date": "2026-01-22",
+    "approvalType": "BLA",
+    "notes": "FcRn antagonist platform"
+  },
+  {
+    "ticker": "KROS",
+    "companyName": "Keros Therapeutics",
+    "drugName": "KER-050",
+    "indication": "Pulmonary arterial hypertension",
+    "pdufa_date": "2026-01-18",
+    "approvalType": "NDA",
+    "notes": "TGF-beta pathway modulator"
+  },
+  {
+    "ticker": "RCKT",
+    "companyName": "Rocket Pharmaceuticals",
+    "drugName": "RP-L201",
+    "indication": "Fanconi anemia",
+    "pdufa_date": "2026-01-12",
+    "approvalType": "BLA",
+    "notes": "Gene therapy for rare disease"
+  }
+]
