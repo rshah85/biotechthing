@@ -2,10 +2,11 @@ import { NextResponse } from 'next/server';
 
 export async function GET(
   request: Request,
-  { params }: { params: { ticker: string } }
+  { params }: { params: Promise<{ ticker: string }> }
 ) {
   try {
-    const ticker = params.ticker.toUpperCase();
+    const { ticker: tickerParam } = await params;
+    const ticker = tickerParam.toUpperCase();
 
     // Use Yahoo Finance API (no key required)
     const quoteUrl = `https://query1.finance.yahoo.com/v8/finance/chart/${ticker}`;
